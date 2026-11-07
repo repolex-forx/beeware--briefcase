@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/beeware/briefcase/commit/d94b1eb06d55d1cf01559f8818b1df0625a3ea3d",
       "git:hexsha": "d94b1eb06d55d1cf01559f8818b1df0625a3ea3d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T12:03:26.692896+00:00"
     },
     {
       "@id": "https://repolex.ai/r/beeware/briefcase/commit/7f00ce9217f16adc5eea1c27a77a468aae418d02",
